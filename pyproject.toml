@@ -26,6 +26,7 @@ ptflops = "*"
 tokenizers = "*"
 pycocotools = "*"
 faster-coco-eval = "*"
+pandas = "^2.2.2"
 
 
 [tool.poetry.group.dev.dependencies]
